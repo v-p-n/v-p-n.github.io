@@ -7,3 +7,7 @@
 ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9zLXMtci5naXRodWIuaW9ANDUuOTMuMjE4LjczOjg4ODg
 
 ssr://NDUuOTMuMjE4LjczOjg4ODg6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjSE02THk5ekxYTXRjaTVuYVhSb2RXSXVhVzg 
+
+
+#### >> [SS/SSR节点使用参考教程](https://s-s-r.github.io/wiki/)
+
