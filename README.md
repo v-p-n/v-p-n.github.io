@@ -8,3 +8,7 @@
 
 [SS/SSR节点终极指南](https://s-s-r.github.io/wiki/)
 
+#### 电报频道：
+
+[t.me/freessssr](https://t.me/joinchat/AAAAAFiGDMSvicw0X8Yc_g)
+
