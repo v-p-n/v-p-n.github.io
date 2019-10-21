@@ -12,3 +12,7 @@
 
 [t.me/freessssr](https://t.me/joinchat/AAAAAFiGDMSvicw0X8Yc_g)
 
+#### V2ray注册体验：
+
+[V2ray注册体验 ](https://v2server.github.io/)
+
