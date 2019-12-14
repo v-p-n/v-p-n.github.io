@@ -16,3 +16,7 @@
 
 [V2ray注册体验 ](https://v2sx.github.io/)
 
+#### V2Ray使用幫助：
+
+[V2ray使用幫助 ](https://v2sx.github.io/Help/)
+
